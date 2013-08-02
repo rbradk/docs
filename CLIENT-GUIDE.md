@@ -48,7 +48,7 @@ Metrics](http://www.youtube.com/watch?v=irjgfW0BIrw).
 * Acquisition - how many users sign up
 * Activation - how many users do enough intial activity to get value
   from your app
-* Retention - do they come back? (you're app is going to suck at this at
+* Retention - do they come back? (your app is going to suck at this at
   first. Everyone's does.)
 * Referral - do they tell others (nope, not at first.)
 * Revenue - how much money are you generating (this will be close to
